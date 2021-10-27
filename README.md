@@ -137,10 +137,10 @@ Here are some resources Coder Quad recommends to prepare for OA's and technical 
 | [ ] |[SingleStore](https://boards.greenhouse.io/singlestore/jobs/3437007) | Raleigh, Seattle, SF, Lisbon (Portugal) | SWE |
 | [ ] |[Modern Treasury](https://jobs.ashbyhq.com/moderntreasury/a14a33e3-c262-425a-830c-d86965d2a864) | SF, New York, Remote | SWE |
 | [ ] |[Eightfold AI](https://app.eightfold.ai/careers/job?domain=volkscience.com&pid=68728335636) | Santa Clara | SWE |
-| [ ] |[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
+| [X] |[Old Mission Capitol](https://www.oldmissioncapital.com/careers/?gh_jid=4371488003) | Chicago | SWE, [Quant Trader](https://www.oldmissioncapital.com/careers/?gh_jid=4454178003)
 | [ ] |[Flexport](https://boards.greenhouse.io/flexport/jobs/3479879?s=LinkedIn&source=LinkedIn) | Bellevue, Chicago (High Priority), San Francisco | SWE |
 | [ ] |[NetApp](https://netapp.eightfold.ai/careers?query=NetApp%20Emerging%20Talent%20-%20Software%20%26%20QA%20Engineer) | Multiple Locations in the US | SWE, QA |
-| [ ] |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
+| [X] |[Twitter](https://jobs.smartrecruiters.com/ni/Twitter2/38c17a4c-60d1-4333-b666-22632c1ce39b-2022-engineering-new-graduates-and-early-career-north-america-latin-america) | SF | Various Engineer Positions |
 | [X] |[Netflix](https://jobs.netflix.com/jobs/127236667) | Los Gatos, California | New Grad, Software Engineer |
 | [X] |[Square](https://www.smartrecruiters.com/Square/743999776502570) | SF, Remote | Software Engineer (New Grad) |
 | [ ] |[Atlassian](https://www.atlassian.com/company/careers/detail/620921f2-c09c-4d3e-8bd2-f8781fbcc276) | CA, Remote  | SWE, PM, Site Reliability Eng, Data Scientist ([Full list here](https://www.atlassian.com/company/careers/students))|
